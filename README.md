@@ -52,22 +52,15 @@ Projeto desenvolvido durante o curso técnico, voltado para criação e gerencia
 
 <br><br>
 
-<a href="https://github.com/GiovannePDS7/Event-Fy"> <img src="https://img.shields.io/badge/Ver%20projeto-0066FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📋 Kanban</h3> <div align="center">
+<a href="https://github.com/GiovannePDS7/Event-Fy"> <img src="https://img.shields.io/badge/Ver%20projeto-0066FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> </tr> 
 
-Projeto focado em Front-end, interfaces modernas e gerenciamento visual de tarefas com Drag & Drop.
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
+<img src="https://skillicons.dev/icons?i=github" /> </div> </td> </tr> </table> </div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Henriqueluz21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=1E90FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqueluz21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" width="49%"/>
 
 <img src="https://streak-stats.demolab.com?user=Henriqueluz21&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=1E90FF" width="60%"/>
 
