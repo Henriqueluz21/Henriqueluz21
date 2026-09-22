@@ -49,3 +49,12 @@ Gosto de aprender colocando as coisas em prática: criar uma ideia, transformar 
 🗄️ APIs e Bancos de Dados
 🚀 Projetos para portfólio
 🎯 Em constante evolução
+
+
+🛠️ Tecnologias
+💻 Linguagens
+<div align="left"> <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" /> </div> <br>
+⚡ Frameworks e Bibliotecas
+<div align="left"> <img src="https://skillicons.dev/icons?i=spring,react,nextjs,bootstrap" /> </div> <br>
+🗄️ Banco de Dados & Ferramentas
+<div align="left"> <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,idea" /> </div>
