@@ -49,7 +49,7 @@ Gosto de aprender colocando as coisas em prática: criar uma ideia, transformar 
 🗄️ APIs e Bancos de Dados
 🚀 Projetos para portfólio
 🎯 Em constante evolução
-
+```
 
 🛠️ Tecnologias
 💻 Linguagens
