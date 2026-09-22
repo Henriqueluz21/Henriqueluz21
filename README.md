@@ -68,26 +68,6 @@ Projeto desenvolvido durante o curso técnico, voltado para criação e gerencia
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henriqueluz21&theme=react-dark&hide_border=true&bg_color=0D1117&color=1E90FF&line=8A2BE2&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Henriqueluz21&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
 ### 🐍 Snake Contribution
 
 <div align="center">
