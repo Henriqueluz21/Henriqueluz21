@@ -32,16 +32,43 @@
 
 ### 🚀 Projetos em destaque
 
-<div align="center">
+<div align="center"> <table> <tr> <td width="50%" valign="top"> <h3 align="center">📦 Gestão de Produtos, Estoque e Vendas</h3> <div align="center">
 
-<a href="https://github.com/Henriqueluz21/gestao-vendas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Henriqueluz21&repo=gestao-vendas&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/GiovannePDS7/Event-Fy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovannePDS7&repo=Event-Fy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+Aplicação web voltada para gerenciamento de produtos, estoque e vendas.
 
-</div>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,spring,postgres" />
+
+<br><br>
+
+<a href="LINK_DO_REPOSITORIO_GESTAO"> <img src="https://img.shields.io/badge/Ver%20projeto-0066FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> <td width="50%" valign="top"> <h3 align="center">🎟️ EventFY</h3> <div align="center">
+
+Projeto desenvolvido durante o curso técnico, voltado para criação e gerenciamento de eventos e venda de ingressos.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres" />
+
+<br><br>
+
+<a href="LINK_DO_REPOSITORIO_EVENTFY"> <img src="https://img.shields.io/badge/Ver%20projeto-0066FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📋 Kanban</h3> <div align="center">
+
+Projeto focado em Front-end, interfaces modernas e gerenciamento visual de tarefas com Drag & Drop.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
+
+<br><br>
+
+<a href="LINK_DO_REPOSITORIO_KANBAN"> <img src="https://img.shields.io/badge/Em%20desenvolvimento-0066FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> </td> <td width="50%" valign="top"> <h3 align="center">💡 Mais projetos em breve</h3> <div align="center">
+
+Estou constantemente criando novos projetos para praticar, experimentar tecnologias e transformar aprendizado em aplicações reais.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=github" /> </div> </td> </tr> </table> </div>
 
 ---
 
